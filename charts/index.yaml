@@ -3,9 +3,9 @@ entries:
   forestsoft-helm-lamp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T13:40:41.435865312Z"
+    created: "2022-01-15T14:32:02.173185329Z"
     description: A Helm chart for Kubernetes
-    digest: 1ceaaaf7c26f2ee9b22c79dadb852bb3bbeb3e06648ad711c93cbe3dd3b6d4b0
+    digest: 988361d4f30e66bf846b1ad9cae261f8247c8f536c944245a1ee6087a1535606
     maintainers:
     - email: support@forestsoft.de
       name: Forestsoft GmbH
@@ -17,7 +17,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T13:40:41.437057915Z"
+    created: "2022-01-15T14:32:02.17434303Z"
     description: A Helm chart for Kubernetes
     digest: 9f17d2f331eb99929d6a0d37929db841f420dd24579f8ec4f796a1bac43fea50
     maintainers:
@@ -31,7 +31,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T13:40:41.434726434Z"
+    created: "2022-01-15T14:32:02.171997064Z"
     description: A Helm chart for Kubernetes
     digest: c8bc0c15ac3e44ef1f6436ed43de2591b3eee462aeadd9b0ec41fc675b1614e6
     maintainers:
@@ -43,4 +43,4 @@ entries:
     urls:
     - https://Forestsoft-de.github.io/helm-charts/charts/forestsoft-helm-lamp-1.0.6.tgz
     version: 1.0.6
-generated: "2022-01-15T13:40:41.433324632Z"
+generated: "2022-01-15T14:32:02.170531541Z"
