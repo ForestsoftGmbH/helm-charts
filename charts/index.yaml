@@ -3,7 +3,21 @@ entries:
   forestsoft-helm-lamp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T17:19:38.357305992Z"
+    created: "2022-01-15T17:40:19.882984611Z"
+    description: A Helm chart for Kubernetes
+    digest: 9ec1dc7defc4e416fef9d63e2c12fbadb3e16efc8b84d6ac6aaf7e26d9b6f1ec
+    maintainers:
+    - email: support@forestsoft.de
+      name: Forestsoft GmbH
+      url: https://forestsoft.de
+    name: forestsoft-helm-lamp
+    type: application
+    urls:
+    - https://Forestsoft-de.github.io/helm-charts/charts/forestsoft-helm-lamp-1.1.12.tgz
+    version: 1.1.12
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-15T17:40:19.881847593Z"
     description: A Helm chart for Kubernetes
     digest: f98bf7d983c71db619c5a9755d5fcbccd6e8c951b62549572796dba483f1e81c
     maintainers:
@@ -17,7 +31,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T17:19:38.356160686Z"
+    created: "2022-01-15T17:40:19.880654419Z"
     description: A Helm chart for Kubernetes
     digest: f5ab6f6fe39356d047e07f63afa89e908d96cec3a7195b611de3902f61021e30
     maintainers:
@@ -31,7 +45,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T17:19:38.358360759Z"
+    created: "2022-01-15T17:40:19.884047613Z"
     description: A Helm chart for Kubernetes
     digest: 9f17d2f331eb99929d6a0d37929db841f420dd24579f8ec4f796a1bac43fea50
     maintainers:
@@ -45,7 +59,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-15T17:19:38.355068033Z"
+    created: "2022-01-15T17:40:19.879437192Z"
     description: A Helm chart for Kubernetes
     digest: c8bc0c15ac3e44ef1f6436ed43de2591b3eee462aeadd9b0ec41fc675b1614e6
     maintainers:
@@ -57,4 +71,4 @@ entries:
     urls:
     - https://Forestsoft-de.github.io/helm-charts/charts/forestsoft-helm-lamp-1.0.6.tgz
     version: 1.0.6
-generated: "2022-01-15T17:19:38.353715232Z"
+generated: "2022-01-15T17:40:19.877564463Z"
